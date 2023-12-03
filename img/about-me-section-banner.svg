@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   id="visual"
+   viewBox="0 0 1700 350"
+   width="1700"
+   height="350"
+   version="1.1"
+   sodipodi:docname="base_banner.svg"
+   inkscape:version="1.2.2 (732a01da63, 2022-12-09)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   style="border-radius: 8px;">
+  <defs
+     id="defs9984" />
+  <sodipodi:namedview
+     id="namedview9982"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     showgrid="false"
+     inkscape:zoom="1.0307121"
+     inkscape:cx="298.82253"
+     inkscape:cy="299.79273"
+     inkscape:window-width="1920"
+     inkscape:window-height="1057"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="visual" />
+  <path
+     d="M0 22L47.2 22.7C94.3 23.3 188.7 24.7 283.2 26.5C377.7 28.3 472.3 30.7 566.8 30.7C661.3 30.7 755.7 28.3 850 29.5C944.3 30.7 1038.7 35.3 1133.2 37.7C1227.7 40 1322.3 40 1416.8 42.8C1511.3 45.7 1605.7 51.3 1652.8 54.2L1700 57L1700 0L1652.8 0C1605.7 0 1511.3 0 1416.8 0C1322.3 0 1227.7 0 1133.2 0C1038.7 0 944.3 0 850 0C755.7 0 661.3 0 566.8 0C472.3 0 377.7 0 283.2 0C188.7 0 94.3 0 47.2 0L0 0Z"
+     fill="#ff7391"
+     id="path9971"
+     inkscape:label="Wave"
+     style="fill:#f3b578;fill-opacity:1" />
+  <path
+     d="M0 82L47.2 82.5C94.3 83 188.7 84 283.2 81C377.7 78 472.3 71 566.8 67C661.3 63 755.7 62 850 66.7C944.3 71.3 1038.7 81.7 1133.2 82.2C1227.7 82.7 1322.3 73.3 1416.8 74C1511.3 74.7 1605.7 85.3 1652.8 90.7L1700 96L1700 55L1652.8 52.2C1605.7 49.3 1511.3 43.7 1416.8 40.8C1322.3 38 1227.7 38 1133.2 35.7C1038.7 33.3 944.3 28.7 850 27.5C755.7 26.3 661.3 28.7 566.8 28.7C472.3 28.7 377.7 26.3 283.2 24.5C188.7 22.7 94.3 21.3 47.2 20.7L0 20Z"
+     fill="#ff4d74"
+     id="path9973"
+     inkscape:label="Wave"
+     style="fill:#f78376;fill-opacity:1.0" />
+  <path
+     d="M0 159L47.2 161.8C94.3 164.7 188.7 170.3 283.2 177.8C377.7 185.3 472.3 194.7 566.8 192.3C661.3 190 755.7 176 850 179.5C944.3 183 1038.7 204 1133.2 211.7C1227.7 219.3 1322.3 213.7 1416.8 204.3C1511.3 195 1605.7 182 1652.8 175.5L1700 169L1700 94L1652.8 88.7C1605.7 83.3 1511.3 72.7 1416.8 72C1322.3 71.3 1227.7 80.7 1133.2 80.2C1038.7 79.7 944.3 69.3 850 64.7C755.7 60 661.3 61 566.8 65C472.3 69 377.7 76 283.2 79C188.7 82 94.3 81 47.2 80.5L0 80Z"
+     fill="#ff0055"
+     id="path9975"
+     inkscape:label="Wave"
+     style="fill:#da4c66;fill-opacity:1" />
+  <path
+     d="M0 292L47.2 290.2C94.3 288.3 188.7 284.7 283.2 287C377.7 289.3 472.3 297.7 566.8 296.5C661.3 295.3 755.7 284.7 850 284C944.3 283.3 1038.7 292.7 1133.2 290.3C1227.7 288 1322.3 274 1416.8 275.8C1511.3 277.7 1605.7 295.3 1652.8 304.2L1700 313L1700 167L1652.8 173.5C1605.7 180 1511.3 193 1416.8 202.3C1322.3 211.7 1227.7 217.3 1133.2 209.7C1038.7 202 944.3 181 850 177.5C755.7 174 661.3 188 566.8 190.3C472.3 192.7 377.7 183.3 283.2 175.8C188.7 168.3 94.3 162.7 47.2 159.8L0 157Z"
+     fill="#dd004b"
+     id="path9977"
+     inkscape:label="Wave"
+     style="fill:#8f3c68;fill-opacity:1" />
+  <path
+     d="M0 351L47.2 351C94.3 351 188.7 351 283.2 351C377.7 351 472.3 351 566.8 351C661.3 351 755.7 351 850 351C944.3 351 1038.7 351 1133.2 351C1227.7 351 1322.3 351 1416.8 351C1511.3 351 1605.7 351 1652.8 351L1700 351L1700 311L1652.8 302.2C1605.7 293.3 1511.3 275.7 1416.8 273.8C1322.3 272 1227.7 286 1133.2 288.3C1038.7 290.7 944.3 281.3 850 282C755.7 282.7 661.3 293.3 566.8 294.5C472.3 295.7 377.7 287.3 283.2 285C188.7 282.7 94.3 286.3 47.2 288.2L0 290Z"
+     fill="#bb0041"
+     id="path9979"
+     inkscape:label="Wave"
+     style="fill:#3f3557;fill-opacity:1" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-variant:normal;font-weight:900;font-stretch:normal;font-size:161.333px;font-family:Arial;-inkscape-font-specification:'Arial, Heavy';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-variant-east-asian:normal;text-align:center;text-anchor:middle;fill:#ffffff;fill-opacity:0.75154;stroke-width:1.00157"
+     x="850"
+     y="232.74272"
+     id="text12407"
+     sodipodi:insensitive="true"
+     inkscape:label="Text"><tspan
+       sodipodi:role="line"
+       id="tspan12405"
+       x="850"
+       y="232.74272">About me</tspan></text>
+</svg>
