@@ -16,4 +16,7 @@ Technologies I know and use:
 
 ---
 
+![Section banner](./img/certifications-section-banner.svg)
+![Google: Python for IT Automation](./img/cert-py-automation.png)
+
 Also feel free to checkout my projects, there on Github 😉
