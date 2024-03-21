@@ -1,7 +1,7 @@
 ## Jan Żukowski - Baguuc
 
 ![Section banner](./img/about-me-section-banner.svg)
-I'am self-taught programmer, going thru high school. I have been programming for a few years now. My journey started in 2020's march.
+I am a young programmer. Now learning at technical secondary school. I have been programming for a few years now. My journey started in 2020's march.
 
 Technologies I know and use:
 * Python <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1f/Python_logo_01.svg/600px-Python_logo_01.svg.png?20210503135843" alt="Python logo" width="25em" align="center">
